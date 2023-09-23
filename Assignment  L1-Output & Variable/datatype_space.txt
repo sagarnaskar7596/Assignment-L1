@@ -1,0 +1,3 @@
+1. int takes 4 bytes of space.
+2. bool takes 2 bytes of space.
+3. float takes 4 bytes of space.
